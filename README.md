@@ -7,7 +7,7 @@ A high-performance, dark-themed personal portfolio website built to showcase my 
 Designed with a focus on modern UI/UX, it features a custom "Inverted Lens" cursor, smooth entry animations, and a responsive glassmorphism design.
 
 ## 🚀 **Live Demo**
-### 👉 [Click here to view the live website](https://devansh-portfolio-lime.vercel.app/)
+### 👉 [Click here to view the live website](https://devansh-me.vercel.app/)
 *(https://devansh-me.vercel.app/)*
 
 ---
