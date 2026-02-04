@@ -8,7 +8,7 @@ Designed with a focus on modern UI/UX, it features a custom "Inverted Lens" curs
 
 ## 🚀 **Live Demo**
 ### 👉 [Click here to view the live website](https://devansh-portfolio-lime.vercel.app/)
-*(https://devansh-portfolio-lime.vercel.app/)*
+*(https://devansh-me.vercel.app/)*
 
 ---
 
